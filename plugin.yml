@@ -1,0 +1,12 @@
+name: Vanishproject
+version: '${project.version}'
+main: vanishproject.vanishproject.Vanishproject
+api-version: 1.8
+commands:
+  Vanish:
+    description: Vanish GUI
+  Vanishon:
+    description: Get in Vanish mode
+  Vanishoff:
+    description: leave vanish mode
+
